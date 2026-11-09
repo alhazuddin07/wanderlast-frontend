@@ -1,36 +1,123 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🌍 Wanderlast – Discover Your Next Adventure
 
-## Getting Started
+A modern travel discovery and booking platform designed to help travelers explore breathtaking destinations and plan unforgettable journeys around the world.
 
-First, run the development server:
+🔗 **Live Website:** [Wanderlast](https://wanderlust-frontend-phi.vercel.app/)
+
+---
+
+## ✨ Features
+
+### 🏝️ Explore Destinations
+- Discover beautiful travel destinations around the world.
+- Browse featured destinations with attractive images.
+- View destination prices, ratings, and trip durations.
+- Explore curated travel experiences.
+
+### 🔎 Smart Trip Search
+- Search destinations by location.
+- Select preferred travel dates and duration.
+- Filter trips based on budget.
+- Choose the number of travelers.
+
+### 👤 User Account
+- User Login and Registration.
+- Personalized user profile.
+- Access personal booking information.
+- Manage travel-related activities.
+
+### 💎 Additional Features
+- Modern and user-friendly interface.
+- Responsive travel experience.
+- Featured destination showcase.
+- Customer testimonials.
+- Newsletter subscription section.
+- Dedicated customer support information.
+
+---
+
+## 🖥️ Website Preview
+
+**Wanderlast Homepage**
+
+Explore destinations, discover travel experiences, and start planning your next adventure.
+
+🔗 [Visit Live Website](https://wanderlust-frontend-phi.vercel.app/)
+
+---
+
+## 🛠️ Technologies Used
+
+> Add the exact technologies used in your project based on your `package.json`.
+
+- Frontend: [React.js, Next.js, TypeScript, Tailwind CSS]
+- Backend: [Express.js]
+- Database: [MongoDB]
+- Authentication: [Better-Auth]
+- Deployment: Vercel
+- Version Control: Git & GitHub
+
+---
+
+## ⚙️ Installation & Setup
+
+Follow these steps to run the project locally.
+
+**1. Clone the repository**
+
+```bash
+git clone YOUR_GITHUB_REPOSITORY_URL
+```
+
+**2. Navigate to the project directory**
+
+```bash
+cd wanderlust
+```
+
+**3. Install dependencies**
+
+```bash
+npm install
+```
+
+**4. Configure environment variables**
+
+Create a `.env` file in the root directory and add the required environment variables.
+
+```env
+# Add your project environment variables here
+```
+
+**5. Start the development server**
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open your browser and visit:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```text
+http://localhost:3000
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 🎯 Project Goals
 
-To learn more about Next.js, take a look at the following resources:
+Wanderlast aims to make travel discovery easier and more enjoyable by providing a convenient platform where users can explore destinations, compare travel experiences, and plan their next adventure.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🚀 Deployment
 
-## Deploy on Vercel
+The project is deployed on Vercel.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+**Live Link:** https://wanderlust-frontend-phi.vercel.app/
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## 👨‍💻 Developer
+
+Developed with ❤️ to make travel discovery easier and more exciting.
+
